@@ -1,0 +1,10 @@
+Name                :Samiul Alim
+Gender              :male
+Age                 :21
+Address             :shafipur,gazipur
+Date of rergistration(dd.mm.yy) :21.3.21
+Cell number         :2443532
+E-mail              :samiul@gmail.com
+Blood group         :o+
+Word number         :i-1
+

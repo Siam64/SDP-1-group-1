@@ -1,0 +1,7 @@
+Admission fees                                   3000 tk
+Tests                                            cr-100, diabetics-100
+Surgery                                          n/a
+Other costs                                      n/a
+---------------------------------------------------------------------------
+total                                            3200 tk
+

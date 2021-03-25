@@ -1,0 +1,10 @@
+NOTICE=  21.1.21= you have an appointment tomorrow
+
+NOTICE=  11.2.21= now you can search for blood through our software
+
+NOTICE=  15.2.21= you can pay all your bills through bkash
+
+NOTICE=  20.2.21= you have few given test, complete them
+
+NOTICE=  23.2.21= now you can share your thoughts through our system
+

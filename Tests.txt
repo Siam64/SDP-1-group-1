@@ -1,0 +1,9 @@
+Corona                    :given
+Blood test                :n/a
+Diabetics                 :given(urgent)
+Pregnancy                 :n/a
+Angiography               :n/a
+Endoscopy                 :n/a
+Ultrasound                :n/a
+Other                     :n/a
+

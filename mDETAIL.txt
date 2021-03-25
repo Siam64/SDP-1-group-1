@@ -1,0 +1,8 @@
+Current case                    :Heart
+Case in detail                  :Cardiac arrest, 3 block
+Other complexities              :high pressure, diabetics
+Referral                        :from abcd heart hospital
+Appointed doctor(s)             :not yet appointed
+Reports                         :not yet
+Given tests                     :n/a
+
